@@ -1,5 +1,5 @@
 Hello this is arithmatic operation
-a=10
-b=20
-c=10+20=30
+a=20
+b=30
+c=20+30=50
 addition
